@@ -31,7 +31,6 @@ public class Main {
         MyImage image1 = new ProxyImage("image1.jpg");
 
         System.out.println("Images created, but not loaded.");
-
         image1.display();
     }
 }
